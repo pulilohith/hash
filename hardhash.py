@@ -76,4 +76,4 @@ def t2slongest(arr):
 largestsubarr1([0,0,1,1,0]) 
 largernumsubarr2([1, 0, 0, 1, 0, 1, 1])
 longestsub([1,1,1]) 
-t2slongest("102100211")
+#t2slongest("102100211")
